@@ -1,0 +1,278 @@
+{
+    "AZ_mL": {
+        "sig": "Give _ mL daily for 3 days (for travellers diarrhea)(discard remaining)",
+        "note": "_ is primary key value"
+    },
+    "Az_kg": null,
+    "Az_mg": null,
+    "Azithro tab": {
+        "DIN": "02442434",
+        "sig": "TD",
+        "quantity": 8,
+        "days_supply": 3,
+        "refills": 0,
+        "total_dispense": 100
+    },
+    "Azithro susp": null,
+    "Dukoral": {
+        "DIN": "02247208",
+        "sig": "DUKORAL",
+        "quantity": 2,
+        "days_supply": 14,
+        "refills": 0,
+        "total_dispense": 2
+    },
+    "Dukoral booster": {
+        "DIN": "02247208",
+        "sig": "DUKORALB",
+        "quantity": 1,
+        "days_supply": 7,
+        "refills": 0,
+        "total_dispense": 1
+    },
+    "Loperamide": null,
+    "Malarone Adult": {
+        "DIN": "02466783",
+        "sig": "MALARONE"
+    },
+    "Malarone Pediatric": {
+        "DIN": "02264935"
+    },
+    "Doxycyline": {
+        "DIN": "00725250",
+        "sig": "DOXYM"
+    },
+    "Mefloquine": {
+        "DIN": "02244366",
+        "sig": "MEFLOQUINE"
+    },
+    "Diamox prevention": {
+        "DIN": "00545015",
+        "sig": "ACET"
+    },
+    "Diamox treatment": {
+        "DIN": "00545015",
+        "sig": "ACETT"
+    },
+    "Avaxim": {
+        "DIN": "02237792",
+        "sig": "AVAXIM",
+        "quantity": 1,
+        "days_supply": 28,
+        "refills": 1,
+        "total_dispense": 1
+    },
+    "Engerix B": {
+        "DIN": "02487039",
+        "sig": "ENGERIX",
+        "quantity": 1,
+        "days_supply": 28,
+        "refills": 2,
+        "total_dispense": 1
+    },
+    "Twinrix": {
+        "DIN": "02230578",
+        "sig": "TWINRIX",
+        "quantity": 1,
+        "days_supply": 28,
+        "refills": 2,
+        "total_dispense": 1
+    },
+    "Vivotif": {
+        "DIN": "00885975",
+        "sig": "VIVOTIF",
+        "quantity": 4,
+        "days_supply": 7,
+        "refills": 0,
+        "total_dispense": 4
+    },
+    "Typhim": {
+        "DIN": "02130955",
+        "sig": "TYPHIM",
+        "quantity": 1,
+        "days_supply": 28,
+        "refills": 0,
+        "total_dispense": 1
+    },
+    "Yellow Fever": {
+        "DIN": "00428833",
+        "sig": "INJ 0.5 ML SUB",
+        "quantity": 1,
+        "days_supply": 28,
+        "refills": 0,
+        "total_dispense": 1
+    },
+    "Ixiaro": {
+        "DIN": "02333279",
+        "sig": "IXIARO",
+        "quantity": 1,
+        "days_supply": 28,
+        "refills": 2,
+        "total_dispense": 1
+    },
+    "Rabies": {
+        "DIN": "01908286",
+        "sig": "RABIES",
+        "quantity": 1,
+        "days_supply": 7,
+        "refills": 1,
+        "total_dispense": 1
+    },
+    "Boostrix": {
+        "DIN": "02247600",
+        "sig": "INJECT 0.5 MLS IM",
+        "quantity": 0.5,
+        "days_supply": 28,
+        "refills": 0,
+        "total_dispense": 0.5
+    },
+    "Total Malaria tabs Doxy": null,
+    "Days travelling Doxy": null,
+    "Days travelling Malarone": null,
+    "Total Malaria tabs Malarone": null,
+    "Weeks travelling Mefloquine": null,
+    "Days travelling Mefloquine": null,
+    "Diamox Tabs Treat": null,
+    "Diamox Tabs Prevent": null,
+    "AZ 300mg/15mL": {
+        "DIN": "02274388",
+        "quantity_per_bottle": 15
+    },
+    "AZ 600mg/15mL": {
+        "DIN": "02332396",
+        "quantities": [
+            15,
+            22.5,
+            37.5
+        ],
+        "note": "Take roof of (mL total) X3"
+    },
+    "1T QD - MA": {
+        "sig": "MALARONE"
+    },
+    "3T QD - MP": {
+        "sig": "TAKE 3 TABLET ONCE DAILY (WITH FOOD), START 1 DAY PRIOR TO EXPOSURE, DURING STAY IN REGION AND FOR 1 WEEK AFTER LEAVING ENDEMIC AREA"
+    },
+    "2T QD - MP": {
+        "sig": "TAKE 2 TABLET ONCE DAILY (WITH FOOD), START 1 DAY PRIOR TO EXPOSURE, DURING STAY IN REGION AND FOR 1 WEEK AFTER LEAVING ENDEMIC AREA"
+    },
+    "1T QD - MP": {
+        "sig": "MALARONE"
+    },
+    "3/4T QD - MP": {
+        "sig": "TAKE 3/4 TABLET ONCE DAILY (WITH FOOD), START 1 DAY PRIOR TO EXPOSURE, DURING STAY IN REGION AND FOR 1 WEEK AFTER LEAVING ENDEMIC AREA"
+    },
+    "1/2T QD - MP": {
+        "sig": "TAKE 1/2 TABLET ONCE DAILY (WITH FOOD), START 1 DAY PRIOR TO EXPOSURE, DURING STAY IN REGION AND FOR 1 WEEK AFTER LEAVING ENDEMIC AREA"
+    },
+    "1T QD - MFLQ": {
+        "sig": "MEFLOQUINE"
+    },
+    "3/4T QD - MFLQ": {
+        "sig": "TAKE 3/4 TABLET ONCE A WEEK, START 1 WEEK PRIOR TO EXPOSURE, DURING STAY IN REGION AND WEEKLY FOR 4 WEEKS AFTER LEAVING ENDEMIC AREA"
+    },
+    "1/2T QD - MFLQ": {
+        "sig": "TAKE 1/2 TABLET ONCE A WEEK, START 1 WEEK PRIOR TO EXPOSURE, DURING STAY IN REGION AND WEEKLY FOR 4 WEEKS AFTER LEAVING ENDEMIC AREA"
+    },
+    "1/4T QD - MFLQ": {
+        "sig": "TAKE 1/4 TABLET ONCE A WEEK, START 1 WEEK PRIOR TO EXPOSURE, DURING STAY IN REGION AND WEEKLY FOR 4 WEEKS AFTER LEAVING ENDEMIC AREA"
+    },
+    "Engerix; Trad": {
+        "sig": "ENGERIX",
+        "quantity": 1,
+        "days_supply": 28,
+        "refills": 2,
+        "total_dispense": 1
+    },
+    "Engerix; Rapid": {
+        "sig": "INJECT 1ML INTRAMUSCULARLY (0,7,21 DAYS 12 MONTHS)",
+        "quantity": 1,
+        "days_supply": 7,
+        "refills": 3,
+        "total_dispense": 1
+    },
+    "Twinrix; Trad": {
+        "sig": "TWINRIX",
+        "quantity": 1,
+        "days_supply": 28,
+        "refills": 2,
+        "total_dispense": 1
+    },
+    "Twinrix: Rapid": {
+        "sig": "INJECT 1ML INTRAMUSCULARLY (0,7,21 DAYS 12 MONTHS)",
+        "quantity": 1,
+        "days_supply": 7,
+        "refills": 3,
+        "total_dispense": 1
+    },
+    "Imovax Polio": {
+        "DIN": "01959042",
+        "sig": "POLIO",
+        "quantity": 1,
+        "days_supply": 28,
+        "refills": 0,
+        "total_dispense": 1
+    },
+    "Shingrix": {
+        "DIN": "02468425",
+        "sig": "SHINGRIX",
+        "quantity": 1,
+        "days_supply": 28,
+        "refills": 1,
+        "total_dispense": 1
+    },
+    "Twinrix; Alt": {
+        "sig": "INJECT 1ML INTRAMUSCULARLY (0, 6-12 MONTHS)",
+        "quantity": 1,
+        "days_supply": 28,
+        "refills": 1,
+        "total_dispense": 1
+    },
+    "Ixiaro; Accelerated": {
+        "sig": "IXIAROA",
+        "quantity": 1,
+        "days_supply": 7,
+        "refills": 2,
+        "total_dispense": 1
+    },
+    "Havrix Jr": {
+        "DIN": "02231056",
+        "sig": "HAVRIXJR",
+        "quantity": 1,
+        "days_supply": 28,
+        "refills": 1,
+        "total_dispense": 1
+    },
+    "Engerix B Jr": {
+        "DIN": "02487020",
+        "sig": "ENGERIX",
+        "quantity": 1,
+        "days_supply": 28,
+        "refills": 2,
+        "total_dispense": 1
+    },
+    "Twinrix Jr": {
+        "DIN": "02237548",
+        "sig": "TWINJR",
+        "quantity": 1,
+        "days_supply": 28,
+        "refills": 2,
+        "total_dispense": 1
+    },
+    "MMR": {
+        "DIN": "00466085",
+        "sig": "MMR",
+        "quantity": 1,
+        "days_supply": 28,
+        "refills": 1,
+        "total_dispense": 10
+    },
+    "Varivax": {
+        "DIN": "02246081",
+        "sig": "VAR",
+        "quantity": 1,
+        "days_supply": 28,
+        "refills": 1,
+        "total_dispense": 1
+    }
+}

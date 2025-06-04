@@ -1,0 +1,29 @@
+Pharmacy #,PatientName,Address1,Address2,City,Province,Postal,Allergies,Birthday,Age,Sex,Email,Comments,Conditions,FamilyMembers,Groups,NursingHome,FamilyDoctor,PhoneNumbers,Plans,TotalRxs,TotalDollars,QuickCode,PriceGroup,LastUsed,FirstName,LastName,AR Account,Language,Height,Weight,Deceased Date,Network,Care Giver,Caregiver Relationship,Invitation Generated Date,PharmacyLink Established Date,PharmacyLink Registration Status
+,"doe, john","example St, Nw",,Edmonton,AB,T5X 1A1,,1985-05-15,,M,,"General: School: Norquest 
+Program: Practical Nurse
+StudentNumber: 9999999
+PHN: 1111111111",,,,,,Home: (780) 555-5555 Cell: (587) 999-9999,,,,,,,Jane,Doe,,,,,,,,,,,
+,"ben, bui",nononono,,edmonton,ab,t67 hhh,,09-01-2005,,M,,"General: School: UofA 
+Program: Practical cs
+StudentNumber: 222222222
+PHN: 222222222",,,,,,Home: (780) 999-9999,,,,,,,ben,bui,,,,,,,,,,,
+,"CDI, test",cdi address,,Edmonton,ab,CDI AAA,,01-01-2001,,F,,"General: School: CDI
+Program: Enginerring
+StudentNumber: 333333
+PHN: 123456789",,,,,,Home: (780) 111-1111,,,,,,,CDI,Test,,,,,,,,,,,
+,"MacEwan, test",cdi address,,Edmonton,ab,MAC AAA,,01-01-2001,,F,,"General: School: MacEwan
+Program: Computer science
+StudentNumber: 123456
+PHN: 88888",,,,,,Home: (780) 111-1111,,,,,,,Macewan,Test,,,,,,,,,,,
+,"Nait, test",Nait address,,Edmonton,ab,MAC AAA,,01-01-2001,,F,,"General: School: NAIT
+Program: Computer science
+StudentNumber: 123456
+PHN: 88888",,,,,,Home: (780) 111-1111,,,,,,,Nait,Test,,,,,,,,,,,
+,"Norquest, test",Nait address,,Edmonton,ab,MAC AAA,,01-01-2001,,F,,"General: School: Norquest
+Program: Computer science
+StudentNumber: 123456
+PHN: 88888",,,,,,Home: (780) 111-1111,,,,,,,Norquest,Test,,,,,,,,,,,
+,"UofA, test",Nait address,,Edmonton,ab,MAC AAA,,01-01-2001,,F,,"General: School: UofA
+Program: Computer science
+StudentNumber: 123456
+PHN: 88888",,,,,,Home: (780) 111-1111,,,,,,,UofA,Test,,,,,,,,,,,

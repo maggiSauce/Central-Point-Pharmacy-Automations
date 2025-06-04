@@ -1,0 +1,28 @@
+{
+    'PatientName': 'doe, john', 
+    'Address1': 'example St, Nw', 
+    'City': 'Edmonton', 
+    'Province': 'AB', 
+    'Postal': 'T5X 1A1', 
+    'Birthday': '1985-05-15', 
+    'Sex': 'F', 
+    'Comments': 'General: School: Norquest \nProgram: Practical Nurse\nStudentNumber: 9999999\nPHN: 1111111111', 'PhoneNumbers': 'Home: (780) 555-5555', 
+    'FirstName': 'John', 
+    'LastName': 'Doe'
+}
+
+{'PatientName': 'doe, john', 
+'Address1': 'example St, Nw', 
+'City': 'Edmonton', 
+'Province': 'AB', 
+'Postal': 'T5X 1A1', 
+'Birthday': '1985-05-15', 
+'Sex': 'F', 
+'PhoneNumbers': 'Home: (780) 555-5555', 
+'FirstName': 'John', 
+'LastName': 'Doe', 
+'School': ' Norquest ', 
+'Program': ' Practical Nurse', 
+'StudentNumber': ' 9999999', 
+'PHN': ' 1111111111'
+}
